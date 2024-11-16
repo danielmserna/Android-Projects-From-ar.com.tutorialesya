@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name= "ipv">Ingrese Primer Valor</string>
+    <string name= "isv">Ingrese Segundo Valor</string>
+    <string name= "r">Resultado</string>
+    <string name= "calc">Calcular</string>
+    <string name= "num1">Number1</string>
+    <string name= "num2">Number2</string>
+
+</resources>

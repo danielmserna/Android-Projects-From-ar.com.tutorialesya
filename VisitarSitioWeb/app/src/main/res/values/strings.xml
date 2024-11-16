@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VisitarSitioWeb</string>
+    <string name="ingsw">Ingrese un sitio web</string>
+    <string name="ir">Ir</string>
+    <string name="salir">Salir</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AgendaSharedPreferences</string>
+    <string name="nombreper">Nombre de la persona</string>
+    <string name="datos">Datos</string>
+    <string name="grabar">Grabar</string>
+    <string name="recup">Recuperar</string>
+</resources>

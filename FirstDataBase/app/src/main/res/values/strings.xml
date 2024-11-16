@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Inventarios</string>
+    <string name="articlecode">Código del artículo</string>
+    <string name="description">Descripción</string>
+    <string name="price">Precio</string>
+    <string name="alta">Alta</string>
+    <string name="codesearch">Consulta por código</string>
+    <string name="descriptionsearch">Consulta por descripción</string>
+    <string name="bajaporcode">Baja por código</string>
+    <string name="modify">Modificar</string>
+    <string name="salir">Salir</string>
+</resources>

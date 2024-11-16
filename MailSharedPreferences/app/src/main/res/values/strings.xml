@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MailListViewAdapter</string>
+    <string name="ingmail">Ingrese e-mail</string>
+    <string name="salir">Salir</string>
+    <string name="guardar">Guardar</string>
+    <string name="consultar">Consultar</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1eraSegundaActivity</string>
+    <string name="textobotonseg">Segunda Activity</string>
+    <string name="autor">Autor: Daniel M. Serna</string>
+    <string name="salir">Salir</string>
+
+    <string name="title_activity_tercera">TerceraActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>

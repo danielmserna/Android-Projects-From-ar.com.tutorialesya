@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimerToast</string>
+    <string name="quenum">¿Cuál es el número que vió?</string>
+    <string name="butcont">Controlar</string>
+</resources>

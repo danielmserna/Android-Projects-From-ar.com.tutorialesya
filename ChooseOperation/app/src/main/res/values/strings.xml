@@ -1,0 +1,12 @@
+<resources>
+    <string name="val1">Valor1</string>
+    <string name="val2">Valor2</string>
+    <string name="sum">Sumar</string>
+    <string name="res">Restar</string>
+    <string name="div">Dividir</string>
+    <string name="mul">Multiplicar</string>
+    <string name="rduo">Residuo</string>
+    <string name="calc">Calcular</string>
+    <string name="re">Resultado</string>
+    <string name="app_name">Calculadora De Opciones</string>
+</resources>
